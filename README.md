@@ -10,7 +10,7 @@ A minimal setup for running JavaScript tests on a [Backbone] [1] application  (u
 Assumptions
 ===========
 
-* The guys at Google are smart and know what they're doing (experience has it that they do/are). Thus; testacular (or, ironically, Karma; is my writing this now (saturday night) karma?)
+* The guys at Google are smart and know what they're doing (experience has it that they do/are). Thus; [testacular] [1] (or, ironically, [Karma] [1]; is my writing this now (saturday night) karma?)
 * Having the build break as a result of JavaScript test-failure is good. You get someone to blame.
 * (I know we don't _really_ write JavaScript tests, but let's assume we do. At least we can tell the client that we have some sort of setup that facilitates us doing it. We'll do that anyway but now we don't have to lie (down) doing it.)
 * Your client has the same setup as mine.
@@ -19,6 +19,8 @@ Assumptions
 * I couldn't find an example for this technology stack online. And I was bored.
 * You like documentation with _a lot_ of parenthesis (side notes, tidbits, whatever).
 * You do not expect this to be complete.
+
+[1]: http://karma-runner.github.com/0.8/index.html "Karma"
 
 Background
 ==========
