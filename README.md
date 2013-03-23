@@ -20,12 +20,12 @@ Background
 ==========
 * A slow saturday night with Barbera
 * Client project with the same technology stack (save the testing)
-** Banking
-** Emdedded Jetty
-** Jersey-fueled REST(ful) (we try!) back-end
-** Guice (I couldn't be bothered to use it for this example)
-** Single-page Backbone application using Require.js for AMD
-*** For a below-average-smart-guy like me Require.js _does_ complicate matters
+    Banking
+    Emdedded Jetty
+    Jersey-fueled REST(ful) (we try!) back-end
+    Guice (I couldn't be bothered to use it for this example)
+    Single-page Backbone application using Require.js for AMD
+        For a below-average-smart-guy like me Require.js _does_ complicate matters
 * I realize now that the assumptions somewhat mix with the background. What luck.
 
 Prerequisites (installation, or.. whatever)
