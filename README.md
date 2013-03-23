@@ -1,7 +1,11 @@
 karma-backbone-maven
 ====================
 
-A minimal setup for running JavaScript tests on a Backbone-application (using Require.js) with Testacular (now Karma). Includes maven integration (using maven-exec-plugin) and a minimal Jetty/Jersey backend. *Coded on Barbera*.
+A minimal setup for running JavaScript tests on a [Backbone] [1] application  (using Require.js) with Testacular (now Karma). Includes maven integration (using maven-exec-plugin) and a minimal Jetty/Jersey backend. 
+
+*Coded on Barbera*.
+
+[1]: http://backbonejs.org/ "Backbone"
 
 Assumptions
 ===========
@@ -11,7 +15,7 @@ Assumptions
 * (I know we don't _really_ write JavaScript tests, but let's assume we do. At least we can tell the client that we have some sort of setup that facilitates us doing it. We'll do that anyway but now we don't have to lie (down) doing it.)
 * Your client has the same setup as mine.
 * Running JavaScript tests in different browsers is better than only running them headless (hodeløs?). Meaning, this setup is better than an exclusive PhantomJS setup (or jasmine-maven-plugin).
-* You write your backend in Java and use Maven as your build system. If you write/run(?) your backend in Node and/or use Gradle your way too cool to ever be reading this page.
+* You write your backend in Java and use Maven as your build system. If you write/run(?) your backend in Node and/or use Gradle you're way too cool to be reading this page.
 * I couldn't find an example for this technology stack online. And I was bored.
 * You like documentation with _a lot_ of parenthesis (side notes, tidbits, whatever).
 * You do not expect this to be complete.
