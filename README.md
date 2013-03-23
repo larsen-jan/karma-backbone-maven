@@ -40,6 +40,19 @@ Prerequisites (installation, or.. whatever)
 * Testacular (now Karma) v0.8
 * Jave and Maven are given (not to you, but your machine)
 
+Inspiration
+===========
+* Obviously, Karma and their info on how to integrate it (Karma) with a require.js app (written by some other guy, I think he's Russian?).
+
+Interesting (so you ask)
+===========
+
+* Nothing is really intereting about this, but you may want to check out:
+* 'StartWebServer.java'
+* 'karma.conf.js'
+* 'test-main.js'
+* 'helloWorldView.test.js'
+
 Barbera
 =======
 
